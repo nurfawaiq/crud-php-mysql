@@ -1,0 +1,23 @@
+body {
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.judul {
+	background: #87D1D8;
+	padding: 10px;
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+
+.table{
+	border-collapse: collapse;
+}
+.table tr th, .table tr td {
+	padding: 5px;
+}
